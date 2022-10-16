@@ -2,7 +2,7 @@ Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/m
 
 
 - 🔭 Estou atualmente no estagio como DEV Web. 
-- 📚 Atualmente melhorando minhas skills em HTML, CSS, JS. Estudando React para o mundo web, ReactNative para construção de aplicativos mobile. 
+- 📚 Atualmente melhorando minhas skills em HTML, CSS, JS. Estudando ReactJs para o mundo web. 
 - 😎 Cursando ADS, assistindo séries e animes 
 
 <div align="center">
