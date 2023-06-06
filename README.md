@@ -1,7 +1,7 @@
 Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 
 
-- 🔭 Estou atualmente no estagio como DEV Web. 
+- 🔭 Estou atualmente trabalhando como DEV Front-end Web. 
 - 📚 Atualmente melhorando minhas skills em HTML, CSS, JS. Estudando ReactJs para o mundo web. 
 - 😎 Cursando ADS, assistindo séries e animes 
 
