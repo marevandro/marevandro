@@ -2,7 +2,7 @@ Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/m
 
 
 - 🔭 Estou atualmente trabalhando como DEV Front-end. 
-- 📚 Atualmente melhorando minhas skills em HTML, CSS, JS. Estudando ReactJs para o mundo web. 
+- 📚 Atualmente estudando NEXT e NODE para melhorar o SSR dos sites. 
 - 😎 Cursando ADS, assistindo séries e animes 
 
 <div align="center">
