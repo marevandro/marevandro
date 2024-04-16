@@ -3,7 +3,7 @@ Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/m
 
 - 🔭 Estou atualmente trabalhando como DEV Front-end. 
 - 📚 Atualmente estudando NEXT e NODE. 
-- 😎 Cursando ADS, assistindo séries e animes 
+- 😎 Cursando ADS.
 
 <div align="center">
   <a href="https://github.com/marevandro">
