@@ -1,8 +1,8 @@
 Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 
 
-- 🔭 Estou atualmente trabalhando como DEV Front-end. 
-- 📚 Atualmente estudando NEXT e NODE. 
+- 🔭 Estou atualmente trabalhando como DEV Front-end e Mobile. 
+- 📚 Atualmente estudando Kotlin. 
 - 😎 Cursando ADS.
 
 <div align="center">
