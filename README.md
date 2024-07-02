@@ -1,10 +1,5 @@
 Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 
-
-- 🔭 Estou atualmente trabalhando como DEV Front-end e Mobile. 
-- 📚 Atualmente estudando Kotlin. 
-- 😎 Cursando ADS.
-
 <div align="center">
   <a href="https://github.com/marevandro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marevandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
