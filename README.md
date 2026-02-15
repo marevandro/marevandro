@@ -1,4 +1,9 @@
-Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
+<h1>Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marevandro&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marevandro&layout=compact&theme=github_dark" height="150"/>
+</div>
 
   
 <div style="display: inline_block"><br>
