@@ -1,4 +1,9 @@
-<h1>Hello, folks! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
+# <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi there, welcome to my Github profile
+<br/>
+
+- My name is Márcio Evandro 🇧🇷
+<br/>
+<br/>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
