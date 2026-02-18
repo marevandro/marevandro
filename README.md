@@ -1,7 +1,7 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi there, welcome to my Github profile
 <br/>
 
-- My name is Márcio Evandro 🇧🇷
+- Me chamo Márcio Evandro
 <br/>
 <br/>
   
